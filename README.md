@@ -47,14 +47,15 @@
 
 ---
 
-### 📈 GitHub Stats
-<div align="center">
-  
-  ![Stats](https://github-readme-stats.vercel.app/api?username=AdityaBU0907&show_icons=true&theme=radical&hide_border=true)
-  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdityaBU0907&theme=radical&hide_border=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaBU0907&layout=compact&theme=radical&hide_border=true)
+### 📊 GitHub Stats
 
-</div>
+| <a href="https://github.com/AdityaBU0907"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AdityaBU0907&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Aditya's GitHub stats" /></a> | <a href="https://github.com/AdityaBU0907"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaBU0907&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /></a> |
+| ------------- | ------------- |
+
+---
+
+
+
 
 ---
 
