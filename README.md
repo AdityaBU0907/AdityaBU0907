@@ -76,4 +76,4 @@
 ---
 
 ### 💡 Fun Fact
-"I can tell you how your computer boots before it can tell you 'Hello World' 😎"
+"I can tell you how your computer boots before it can tell you 'Hello World'  "
